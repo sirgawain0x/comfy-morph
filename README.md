@@ -5,10 +5,10 @@
 Comfy Morph is a collection of ComfyUI workflows designed to transform Livepeer broadcasters into captivating characters in real-time. These workflows harness the power of ComfyUI and ComfyStream, offering seamless, high-quality character transformations that elevate video content to new levels of creativity and engagement.
 
 ## Key Features
-	•	Transform broadcasters into unique characters: Batman, Mushroom Aliens, Sorceress, Spiderman, and Vampire.
-	•	Seamless integration with Livepeer for real-time character transformations.
-	•	Fully customizable workflows to match your creative vision.
-	•	High-quality output suitable for live streaming, content creation, and more.
+- Transform broadcasters into unique characters: Batman, Mushroom Aliens, Sorceress, Spiderman, and Vampire.
+- Seamless integration with Livepeer for real-time character transformations.
+- Fully customizable workflows to match your creative vision.
+- High-quality output suitable for live streaming, content creation, and more.
 
 ## Getting Started
 
@@ -16,8 +16,9 @@ Follow these steps to set up and start using Comfy Morph:
 
 1. Clone the Repository
 
-git clone https://github.com/sirgawain0x/comfy-morph.git  
-cd comfy-morph  
+`git clone https://github.com/sirgawain0x/comfy-morph.git`
+
+`cd comfy-morph`
 
 2. Set Up Dependencies
 
@@ -36,9 +37,12 @@ Experiment with the workflows to adjust parameters and tailor transformations to
 ## Contributing
 
 We encourage contributions to enhance Comfy Morph! If you have ideas for new characters, features, or optimizations:
-	1.	Fork the repository.
-	2.	Make your changes.
-	3.	Submit a pull request with a detailed description of your enhancements.
+	
+ 1.	Fork the repository.
+	
+ 2.	Make your changes.
+	
+ 3.	Submit a pull request with a detailed description of your enhancements.
 
 Let’s build something incredible together!
 
