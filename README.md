@@ -23,8 +23,9 @@ Follow these steps to set up and start using Comfy Morph:
 2. Set Up Dependencies
 
 Ensure you have all the necessary tools and dependencies installed to run ComfyUI and ComfyStream.
-	•	ComfyUI Documentation
-	•	ComfyStream Setup Guide
+
+- [ComfyUI Documentation](https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file)
+- [ComfyStream Setup Guide](https://livepeer.notion.site/ComfyStream-Dev-Environment-Setup-15d0a3485687802e9528d26050142d82#78d0750730e14700a59ea114e8baa1f9)
 
 3. Run the Workflows
 
