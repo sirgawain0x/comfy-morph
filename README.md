@@ -1,21 +1,53 @@
-# Comfy Morph
+#Comfy Morph
 
-## Overview
-Comfy Morph is a collection of ComfyUI workflows designed to transform Livepeer broadcasters into characters realtime. These workflows leverage the capabilities of ComfyUI and ComfyStream to create unique and engaging character transformations for video content.
+##Overview
 
-## Features
-- Transform broadcast users into a variety of characters
-- Easy to integrate and customize
-- High-quality output suitable for various applications
+Comfy Morph is a collection of ComfyUI workflows designed to transform Livepeer broadcasters into captivating characters in real-time. These workflows harness the power of ComfyUI and ComfyStream, offering seamless, high-quality character transformations that elevate video content to new levels of creativity and engagement.
 
-## Getting Started
-To get started with Comfy Morph, follow these steps:
-1. Clone the repository: `git clone https://github.com/sirgawain0x/comfy-morph.git`
-2. Navigate to the project directory: `cd comfy-morph`
-3. Follow the instructions in the individual workflow files to set up and run the transformations.
+##Key Features
+	•	Transform broadcasters into unique characters: Batman, Mushroom Aliens, Sorceress, Spiderman, and Vampire.
+	•	Seamless integration with Livepeer for real-time character transformations.
+	•	Fully customizable workflows to match your creative vision.
+	•	High-quality output suitable for live streaming, content creation, and more.
 
-## Contributing
-We welcome contributions to improve Comfy Morph. Please fork the repository and submit pull requests with your enhancements.
+##Getting Started
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+Follow these steps to set up and start using Comfy Morph:
+
+1. Clone the Repository
+
+git clone https://github.com/sirgawain0x/comfy-morph.git  
+cd comfy-morph  
+
+2. Set Up Dependencies
+
+Ensure you have all the necessary tools and dependencies installed to run ComfyUI and ComfyStream.
+	•	ComfyUI Documentation
+	•	ComfyStream Setup Guide
+
+3. Run the Workflows
+
+Each transformation workflow is stored in the project directory. Follow the specific setup instructions within each workflow file to begin morphing users into their desired characters.
+
+4. Explore and Customize
+
+Experiment with the workflows to adjust parameters and tailor transformations to suit your needs.
+
+##Contributing
+
+We encourage contributions to enhance Comfy Morph! If you have ideas for new characters, features, or optimizations:
+	1.	Fork the repository.
+	2.	Make your changes.
+	3.	Submit a pull request with a detailed description of your enhancements.
+
+Let’s build something incredible together!
+
+##License
+
+This project is licensed under the MIT License.
+
+##Contact
+
+For questions or support, feel free to reach out via GitHub issues or connect with the team at devs@creativeplatform.xyz.
+
+This version makes the README more polished and professional while providing clear guidance for new users. Let me know if you’d like any further tweaks!
