@@ -1,5 +1,7 @@
 # Comfy Morph
 
+![Anime ComfyUI Workflow](https://ibb.co/7RN4kz4)
+
 ## Overview
 
 Comfy Morph is a collection of ComfyUI workflows designed to transform Livepeer broadcasters into captivating characters in real-time. These workflows harness the power of ComfyUI and ComfyStream, offering seamless, high-quality character transformations that elevate video content to new levels of creativity and engagement.
@@ -9,8 +11,6 @@ Comfy Morph is a collection of ComfyUI workflows designed to transform Livepeer 
 - Seamless integration with Livepeer for real-time character transformations.
 - Fully customizable workflows to match your creative vision.
 - High-quality output suitable for live streaming, content creation, and more.
-
-![Anime ComfyUI Workflow](https://ibb.co/7RN4kz4)
 
 ## Getting Started
 
