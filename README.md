@@ -10,6 +10,8 @@ Comfy Morph is a collection of ComfyUI workflows designed to transform Livepeer 
 - Fully customizable workflows to match your creative vision.
 - High-quality output suitable for live streaming, content creation, and more.
 
+![Anime ComfyUI Workflow](https://maroon-certain-centipede-351.mypinata.cloud/files/bafybeifcbjswlscazrw7yvb32a4sesvypm6f5qapzug5plyiaz3nljdmqu?X-Algorithm=PINATA1&X-Date=1737346306&X-Expires=30&X-Method=GET&X-Signature=25e9f711ed2a6be212145cf4efac5944f94c4e33aa03cf652e8284cf81f4859e)
+
 ## Getting Started
 
 Follow these steps to set up and start using Comfy Morph:
