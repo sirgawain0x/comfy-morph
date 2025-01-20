@@ -1,14 +1,4 @@
 {
-  "1": {
-    "inputs": {
-      "image": "236745548_389262759226541_1262945661121147358_n.png",
-      "upload": "image"
-    },
-    "class_type": "LoadImage",
-    "_meta": {
-      "title": "Load Image"
-    }
-  },
   "2": {
     "inputs": {
       "engine": "depth_anything_v2_vitb-fp16.engine",
